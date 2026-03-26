@@ -87,7 +87,7 @@ EDA was conducted to understand relationships between housing features and prope
 - Property price increases with larger area.
 - Location plays a major role in determining price.
 - Furnished properties are generally priced higher.
-- Properties with more bedrooms and bathrooms tend to have higher values.
+- Properties with a full set of amenities (garden, playground, clubhouse, gym, and pool) tend to have higher values.
 - Premium locations show significantly higher price ranges.
 
 Visualization tools such as Matplotlib and Seaborn were used to explore these trends.
