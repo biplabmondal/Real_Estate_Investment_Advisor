@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a Real Estate Investment Advisor that helps users make data-driven decisions while investing in property. The system analyzes housing price data and predicts property values using machine learning techniques.
+This project aims to build a Real Estate Investment Advisor application that helps users make data-driven decisions while investing in property. The system analyzes housing price data and predicts property values using machine learning techniques.
 
 The objective is to assist investors, buyers, and real estate professionals in understanding market trends and estimating property prices based on multiple influencing factors such as location, size, number of bedrooms, and amenities.
 
