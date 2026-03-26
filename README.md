@@ -104,12 +104,20 @@ Visualization tools such as Matplotlib and Seaborn were used to explore these tr
 
 Models were evaluated using:
 
+**Regession Evaluation**
+
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-The best-performing model was selected based on prediction accuracy.
+**Classification Evaluation**
+
+- Accuracy
+- Precision
+- Recall
+- F1
+- ROC_AUC
 
 ---
 
