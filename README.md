@@ -1,4 +1,4 @@
-# Real Estate Investment Advisor using Machine Learning
+# Real Estate Investment Advisor Application using Machine Learning
 
 ## Project Overview
 
