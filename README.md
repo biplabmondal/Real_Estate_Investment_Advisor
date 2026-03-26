@@ -95,19 +95,8 @@ Visualization tools such as Matplotlib and Seaborn were used to explore these tr
 
 # Machine Learning Models Used
 
-Different regression models were tested to predict property prices.
-
-### Linear Regression
-Used as a baseline model for price prediction.
-
-### Decision Tree Regressor
-Captured non-linear relationships between property features.
-
-### Random Forest Regressor
-Improved prediction accuracy using ensemble learning.
-
-### Gradient Boosting Models
-Enhanced performance by combining weak learners.
+Classification Model - XGBoost Classifier
+Regression Model - XGBoost Regressor
 
 ---
 
