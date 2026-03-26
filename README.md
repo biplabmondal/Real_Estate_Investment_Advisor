@@ -85,7 +85,7 @@ EDA was conducted to understand relationships between housing features and prope
 ## Key Insights
 
 - Property price increases with larger area.
-- Major Cities and Location plays a major role in determining price.
+- Location plays a major role in determining price.
 - Furnished properties are generally priced higher.
 - Properties with a full set of amenities (garden, playground, clubhouse, gym, and pool) tend to have higher values.
 
