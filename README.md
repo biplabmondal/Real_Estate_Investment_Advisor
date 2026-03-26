@@ -95,8 +95,8 @@ Visualization tools such as Matplotlib and Seaborn were used to explore these tr
 
 # Machine Learning Models Used
 
-Classification Model - XGBoost Classifier
-Regression Model - XGBoost Regressor
+- Classification Model - XGBoost Classifier
+- Regression Model - XGBoost Regressor
 
 ---
 
