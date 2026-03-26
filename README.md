@@ -46,10 +46,13 @@ Key attributes include:
 
 - Location
 - Area (Square Feet)
-- Number of Bedrooms
-- Number of Bathrooms
+- Age of Property
+- Transportation Availability 
 - Property Type
 - Furnishing Status
+- Nearby Schools, Hospitals
+- Parking Space
+- Security
 - Price
 - Other relevant housing attributes
 
